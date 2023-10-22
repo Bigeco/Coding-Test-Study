@@ -4,6 +4,6 @@
 
 ## 2023 10 
 - **Week 1** : [N and M(1)](Baekjun/Backtracking/Silver-3-15649-N_and_M(1).md) | [N and M(2)](Baekjun/Backtracking/Silver-3-15650-N_and_M(2).md) | [유레카 이론](Baekjun/Brute-force/Bronze-1-10448-유레카_이론.md) | [일곱 난쟁이](Baekjun/Brute-force/Bronze-1-2309-일곱_난쟁이.md) | [분해합](Baekjun/Brute-force/Bronze-2-2231-분해합.md)
-- **Week 2** :
-- **Week 3** :
+- **Week 2** : -
+- **Week 3** : [dx-dy](CodeTree/Simulation/dx-dy.md) | [체크판위에서2](CodeTree/Brute-force/체크판위에서2.md) | [Sorting Object](CodeTree/Sorting/Object.md) | [Recursion](Concept/Recursion.md)
 - **Week 4** :
